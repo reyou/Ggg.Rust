@@ -3,3 +3,10 @@
 
 * Title: Install - Rust programming language
   - Url: https://www.rust-lang.org/tools/install
+
+### Writing and Running a Rust Program
+
+```
+C:\Users\dj_re\.cargo\bin\rustc main.rs
+main.exe
+```
